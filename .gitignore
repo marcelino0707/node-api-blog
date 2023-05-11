@@ -1,0 +1,5 @@
+node_modules
+.env
+.vscode
+example.pem
+package-lock.json
